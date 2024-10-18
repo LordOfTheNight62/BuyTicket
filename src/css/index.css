@@ -1,6 +1,6 @@
-#campaign-notification{
-    padding: 5px;
-    background-color: var(--theme-color);
-    font-weight: bold;
-    font-size: 25px;
+#campaign-notification {
+  padding: 5px;
+  background-color: var(--theme-color);
+  font-weight: bold;
+  font-size: 25px;
 }
